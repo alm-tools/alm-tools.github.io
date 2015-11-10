@@ -1,3 +1,3 @@
 
 
-this site is [open source]({{ site.source_link }})
+this site is [open source](https://github.com/TypeScriptBuilder/typescriptbuilder.github.io)
