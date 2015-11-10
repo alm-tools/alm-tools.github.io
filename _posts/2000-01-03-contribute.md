@@ -2,7 +2,7 @@
 title: "Contribute"
 bg: turquoise
 color: black
-style: left
+style: center
 fa-icon: code-fork
 ---
 
