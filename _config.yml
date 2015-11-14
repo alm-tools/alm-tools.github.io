@@ -22,7 +22,7 @@ source_link: "https://github.com/TypeScriptBuilder/tsb"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-docs_link: "https://github.com/TypeScriptBuilder/tsb"
+docs_link: "https://github.com/TypeScriptBuilder/tsb-docs"
 
 ### template colors, used site-wide via css ###
 colors:
