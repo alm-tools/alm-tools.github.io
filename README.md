@@ -1,4 +1,4 @@
-# [www.typescriptbuilder.com](www.typescriptbuilder.com)
+# [www.typescriptbuilder.com](http://www.typescriptbuilder.com)
 
 Website for [TypeScript Builder](https://github.com/TypeScriptBuilder/tsb) :rose:
 
