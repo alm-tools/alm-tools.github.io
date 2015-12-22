@@ -1,6 +1,6 @@
-# [www.typescriptbuilder.com](http://www.typescriptbuilder.com)
+# [alm.tools](http://alm.tools)
 
-Website for [TypeScript Builder](https://github.com/TypeScriptBuilder/tsb) :rose:
+Website for [AlM Tools for TypeScript](https://github.com/alm-tools/alm) :rose:
 
 ## Content
 Site content in [_posts](./_posts)
