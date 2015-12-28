@@ -22,7 +22,7 @@ source_link: "https://github.com/alm-tools/alm"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
-docs_link: "https://github.com/alm-tools/alm/blob/master/docs/features.md"
+docs_link: "https://github.com/alm-tools/alm/blob/master/docs/features"
 
 ### template colors, used site-wide via css ###
 colors:
