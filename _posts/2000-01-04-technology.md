@@ -2,6 +2,7 @@
 title: "Technology"
 bg: white
 color: black
+style: center
 fa-icon: magic
 ---
 
