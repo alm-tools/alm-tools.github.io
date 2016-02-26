@@ -10,11 +10,13 @@ fa-icon: magic
 
 ### This project is also an experiment/demonstration on real world usage of these fine technologies. If you want to play with them head on to the source code 🌹
 
-#### TypeScript
+![TypeScript](./screens/logos/typescript.png)
 
-#### Webpack
+![Webpack](./screens/logos/webpack.png)
 
-#### React / TSX
+![React](./screens/logos/react.png)
+
+### Others
 
 #### Redux
 
