@@ -36,7 +36,9 @@ $.extend($.easing,
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
                 }
-            );
+            )
+            // BAS
+            .then(function(){window.location.hash=navID;});
     	});
 
         //populate lookup of clicable elements and destination sections
@@ -66,8 +68,6 @@ $.extend($.easing,
     function activateNav(navID) {
         for (nav in navs) { $(navs[nav]).removeClass('active'); }
         $(navs[navID]).addClass('active');
-        // BAS
-        window.location.hash=navID;
     }
 })( jQuery );
 
