@@ -1,7 +1,6 @@
 ---
 title: "Technology"
-bg: white
-facolor: black
+bg: orange
 color: black
 style: center
 fa-icon: magic
@@ -9,22 +8,4 @@ fa-icon: magic
 
 # Built on the shoulder of giants
 
-### This project is also a demonstration on real world usage of these fine technologies 🌹
-
-![TypeScript](./screens/logos/typescript.png)
-
-![Webpack](./screens/logos/webpack.png)
-
-![React](./screens/logos/react.png)
-
-### Others
-
-#### Redux
-
-#### SocketIO
-
-#### Radium
-
-#### CodeMirror
-
-#### Nodemon
+### This project is also a demonstration on real world usage TypeScript + React + Redux + Socket IO + Radium (CSS in TypeScript) + CodeMirror. If you want to experiment with these head on to the source code 🌹
