@@ -22,7 +22,7 @@ html { box-sizing: border-box; }
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ fg }}; }
-  #{{id}} .sectiondivider { color: {{ fa-color }}; }
+  #{{id}} .sectiondivider { color: {{ facolor }}; }
 {% endfor %}
 
 

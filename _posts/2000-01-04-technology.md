@@ -1,7 +1,7 @@
 ---
 title: "Technology"
 bg: white
-fa-color: black
+facolor: black
 color: black
 style: center
 fa-icon: magic
