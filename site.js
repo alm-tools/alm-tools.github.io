@@ -66,6 +66,8 @@ $.extend($.easing,
     function activateNav(navID) {
         for (nav in navs) { $(navs[nav]).removeClass('active'); }
         $(navs[navID]).addClass('active');
+        // BAS
+        window.location.hash=navID;
     }
 })( jQuery );
 
@@ -92,4 +94,3 @@ $(document).ready(function (){
 	});
 
 });
-
