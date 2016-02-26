@@ -35,10 +35,10 @@ $.extend($.easing,
         	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
                 settings.scrollSpeed, "easeInOutExpo", function(){
                     disableScrollFn = false;
+                    // BAS
+                    window.location.hash=navID;
                 }
             )
-            // BAS
-            .then(function(){window.location.hash=navID;});
     	});
 
         //populate lookup of clicable elements and destination sections
