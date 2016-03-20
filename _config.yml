@@ -18,8 +18,8 @@ title:       "ALM Tools for TypeScript"
 keywords:    "typescript, javascript, github, atom, editor, node, npm"
 description: "The single piece of software you need to be kickass with TypeScript"
 source_link: "https://github.com/alm-tools/alm"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "https://raw.githubusercontent.com/alm-tools/alm/master/src/public/favicon.ico"
+touch_icon:  "https://raw.githubusercontent.com/alm-tools/alm/master/resources/icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 docs_link: "https://github.com/alm-tools/alm/blob/master/docs/features"
 
